@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "skipDefaultLibCheck": true,
+        "outDir": "./lib",
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "types": [
+            "crypto-js",
+            "jest",
+            "figures",
+            "listr",
+            "node",
+            "puppeteer"
+        ]
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
