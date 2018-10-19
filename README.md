@@ -4,6 +4,8 @@
 
 `check-edux` allows you to easily check the EDUX platform for new updates in courses and global announcements.
 
+![check-edux](https://user-images.githubusercontent.com/11782/47214439-39093b80-d39e-11e8-9e6c-c04a08ac8b75.gif)
+
 ## Installation
 
 ```bash
